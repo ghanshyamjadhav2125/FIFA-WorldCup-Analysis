@@ -10,7 +10,7 @@ This project aims to analyze the FIFA World Cup from 1986 to 2022, uncovering ke
 - [Dashboard Overview](#dashboard-overview)
 - [Conclusion](#Conclusion)
 
-- ## Project Objective
+## Project Objective
 The goal of this project is to provide a comprehensive analysis of the FIFA World Cup tournaments from 1986 to 2022. This report aims to highlight key insights, trends, and patterns related to the host countries, winning and runner-up teams, top scorers, and their goals, along with other significant metrics over the years. 
 
 ## Tech Stack
@@ -38,7 +38,7 @@ These dashboards provide a comprehensive overview, match insights, and detailed 
 - Home & Away Team Stats: A table displaying match stats categorized by month, day, home team, and away team.
 - Most Popular Venues: A bar chart ranking the most popular venues by attendance, with Estadio Azteca and Lusail Iconic Stadium as top sites.
 
-#### Player Details
+- #### Player Details
 - Total Players: Reiterates the total number of players (4,172).
 - Player Foot Preference: A donut chart shows that 92.48% of players are right footed, while 7.52% are left footed.
 - Count of Players by Club: A bar chart with the top 10 clubs by the number of players, such as Real Madrid and Atlético Madrid having the high number of players.
