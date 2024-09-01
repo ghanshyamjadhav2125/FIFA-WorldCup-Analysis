@@ -18,7 +18,7 @@ The goal of this project is to provide a comprehensive analysis of the FIFA Worl
 - *Python*: For data cleaning, manipulation, and generating insights (EDA).
 - *Power BI*: For creating the final interactive dashboard.
 
-- ## Dashboard Overview
+## Dashboard Overview
 ![alt text](Assets/screenshot_1.png)
 ![alt text](Assets/screenshot_2.png)
 ![alt text](Assets/screenshot_3.png)
@@ -31,14 +31,14 @@ These dashboards provide a comprehensive overview, match insights, and detailed 
 - Top Qualifying Countries: A bar chart highlighting the countries that qualified most frequently, such as Brazil, Germany, and Argentina.
 - Winning Stats: A table with detailed winning statistics, including the winning team, runner-up, final score, and host country from 1986 to 2022.
 
-- #### Match Insights
+#### Match Insights
 - Team Performance in Knock-out & Group Stage: A bar chart illustrating the performance of top teams like Argentina, Brazil, and England in group and knockout stages.
 - World Cup Scores by Venue: A bar chart of scores across different stadiums.
 - Match Insights by Country: A world map visualization highlighting insights by different countries.
 - Home & Away Team Stats: A table displaying match stats categorized by month, day, home team, and away team.
 - Most Popular Venues: A bar chart ranking the most popular venues by attendance, with Estadio Azteca and Lusail Iconic Stadium as top sites.
 
-- #### Player Details
+#### Player Details
 - Total Players: Reiterates the total number of players (4,172).
 - Player Foot Preference: A donut chart shows that 92.48% of players are right footed, while 7.52% are left footed.
 - Count of Players by Club: A bar chart with the top 10 clubs by the number of players, such as Real Madrid and Atlético Madrid having the high number of players.
