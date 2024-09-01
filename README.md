@@ -8,8 +8,7 @@ This project aims to analyze the FIFA World Cup from 1986 to 2022, uncovering ke
 - [Project Approach](#project-description)
 - [Tech Stack](#tech-stack)
 - [Dashboard Overview](#dashboard-overview)
-- [Video Presentation link](#video-presentation-link)
-- [Project PPT link](#demo-link)
+- [Conclusion](#Conclusion)
 
 - ## Project Objective
 The goal of this project is to provide a comprehensive analysis of the FIFA World Cup tournaments from 1986 to 2022. This report aims to highlight key insights, trends, and patterns related to the host countries, winning and runner-up teams, top scorers, and their goals, along with other significant metrics over the years. 
@@ -48,13 +47,10 @@ These dashboards provide a comprehensive overview, match insights, and detailed 
 - Performance Analysis by Preferred Foot: A scatter plot assessing player performance based on their preferred foot.
 
 
+## Conclusion
+The FIFA World Cup Analysis from 1986 to 2022 provides comprehensive insights into team and player performances, highlighting key statistics, match outcomes, and player attributes. The dashboards offer a detailed view of top teams, venues, and player characteristics, enabling a thorough understanding of World Cup trends and achievements.
 
-## Video Presentation Link
-[Youtube-Link](https://youtu.be/8mieMpBjuEM)
 
-
-## Project PPT Link
-[PPT-Link](https://drive.google.com/file/d/1vjk3LBHjvVVtug7MvZP723Qi9SIC5I48/view?usp=sharing)
 
 
 
