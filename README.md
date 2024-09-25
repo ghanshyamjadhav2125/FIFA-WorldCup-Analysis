@@ -1,8 +1,7 @@
 # FIFA-WorldCup-Analysis
 
 ## Overview
-This project aims to analyze the FIFA World Cup from 1986 to 2022, uncovering key trends, performances, and unique moments to provide valuable insights. Our team of five members conducted this analysis as a collaborative project.
-
+This project aims to analyze the FIFA World Cup from 1986 to 2022, uncovering key trends, performances, and unique moments to provide valuable insights. 
 ## Table of Contents
 - [Project Objective](#project-description)
 - [Project Approach](#project-description)
