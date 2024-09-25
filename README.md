@@ -1,7 +1,7 @@
 # FIFA-WorldCup-Analysis
 
 ## Overview
-This project aims to analyze the FIFA World Cup from 1986 to 2022, uncovering key trends, performances, and unique moments to provide valuable insights. 
+This project analyzes the FIFA World Cup from 1986 to 2022, highlighting key trends, team performances, top players, and match statistics. Using Excel, Python, and Power BI, it uncovers insights into host countries, winners, goals, player preferences, and popular venues, offering a comprehensive view of World Cup history and achievements.
 ## Table of Contents
 - [Project Objective](#project-description)
 - [Project Approach](#project-description)
